@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bennieju
 - 👀 I’m interested in almost everything really
-- 🌱 I’m currently learning software development 
-- 💞️ I’m looking to collaborate on software development, very elementary however 
+- 🌱 But currently learning Bioinformatics
+- 💞️ I’m looking to collaborate on Bioinformatics and Biomedical Engineering
 - 📫 How to reach me mensahbenniejutta@gmail.com
 
 <!---
